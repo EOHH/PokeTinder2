@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762935792309",
+    "project_id": "poketindernew-c6a5c",
+    "storage_bucket": "poketindernew-c6a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762935792309:android:735395168142231b1824fc",
+        "android_client_info": {
+          "package_name": "com.edilson.huaman.poketinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSrVT5ojfpFT8DyO_Z6B3nohFdGhaNY8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
